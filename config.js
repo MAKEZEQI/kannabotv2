@@ -44,11 +44,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
+global.sig = 'https://www.instagram.com/kalkunzz'
 global.sgh = 'https://github.com/Jikarinka'
 global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://nhentai.net/g/111111/'
 
 /*============== PAYMENT ==============*/
 global.pdana = '083832702971'
@@ -108,7 +108,7 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'APIKEY',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://botstyle-api.herokuapp.com': 'vdAWuqwN',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
